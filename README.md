@@ -9,12 +9,8 @@ This project aims to create a centralized and robust database management system 
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Database Schema](#database-schema)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Sample Data](#sample-data)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
+
 
 ## Features
 
